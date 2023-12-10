@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "257485634562",
+    "project_id": "doctor-native-app",
+    "storage_bucket": "doctor-native-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257485634562:android:64d18b5d0adb6223ed3b1b",
+        "android_client_info": {
+          "package_name": "com.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfOAMKzMOIk5ktGdmvc2QYAp0nKIOJlgw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
